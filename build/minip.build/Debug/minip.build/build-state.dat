@@ -1,0 +1,384 @@
+Tminip
+v7
+r0
+t346676276.483176
+cCheck dependencies
+cCompileC build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o /Users/dasaanand/Projects/Acad/CG_minip/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004BF4700F000000000001A494
+t1274310671
+s107668
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004B489326000000000000578C
+t1263047462
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004BE91B5D0000000000001659
+t1273568093
+s5721
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004BF47010000000000000DB14
+t1274310672
+s56084
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/alloca.h
+c000000004AC59C810000000000000588
+t1254464641
+s1416
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Users/dasaanand/Desktop/CG/minip/build/Debug/minip
+t1270611226
+s117776
+
+N/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+t1270611226
+s178936
+
+N/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList
+c000000004B97970F0000000000000063
+t1268225807
+s99
+
+N/Users/dasaanand/Desktop/CG/minip/char.h
+c000000004BB6F2FB0000000000001EF4
+t1270280955
+s7924
+
+N/Users/dasaanand/Desktop/CG/minip/drawalgo.h
+c000000004BBBFD190000000000001375
+t1270611225
+s4981
+
+N/Users/dasaanand/Desktop/CG/minip/lib.h
+c000000004BB8EBC400000000000014DD
+t1270410180
+s5341
+
+N/Users/dasaanand/Desktop/CG/minip/main.c
+c000000004BBBF5B10000000000014761
+t1270609329
+s83809
+i<GLUT/GLUT.h>
+i<OpenGL/OpenGL.h>
+i<alloca.h>
+i<gl/glut.h>
+i<malloc.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<time.h>
+i"lib.h"
+i"transform.h"
+i"drawalgo.h"
+i"char.h"
+
+N/Users/dasaanand/Desktop/CG/minip/transform.h
+c000000004BBBF14400000000000004EB
+t1270608196
+s1259
+
+N/Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip
+t1324983476
+s166280
+
+N/Users/dasaanand/Projects/Acad/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+t1274350334
+s254528
+
+N/Users/dasaanand/Projects/Acad/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList
+c000000004EF9A4B30000000000000069
+t1324983475
+s105
+
+N/Users/dasaanand/Projects/Acad/CG_minip/char.h
+c000000004BDD6DBF0000000000001FFD
+t1272802751
+s8189
+
+N/Users/dasaanand/Projects/Acad/CG_minip/drawalgo.h
+c000000004BDD07CD00000000000013FA
+t1272776653
+s5114
+
+N/Users/dasaanand/Projects/Acad/CG_minip/lib.h
+c000000004BDD519700000000000014FE
+t1272795543
+s5374
+
+N/Users/dasaanand/Projects/Acad/CG_minip/main.c
+c000000004BF50AFD000000000002054D
+t1274350333
+s132429
+i<GLUT/GLUT.h>
+i<OpenGL/OpenGL.h>
+i<alloca.h>
+i<gl/glut.h>
+i<malloc.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<time.h>
+i"lib.h"
+i"transform.h"
+i"drawalgo.h"
+i"char.h"
+
+N/Users/dasaanand/Projects/Acad/CG_minip/transform.h
+c000000004BDF19C0000000000000052E
+t1272912320
+s1326
+
+N/Users/dasaanand/Projects/MAC/CG_minip/build/Debug/minip
+t1297096919
+s166280
+
+N/Users/dasaanand/Projects/MAC/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+t1274350334
+s254528
+
+N/Users/dasaanand/Projects/MAC/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList
+c000000004D5020D70000000000000068
+t1297096919
+s104
+
+N/Users/dasaanand/Projects/MAC/CG_minip/char.h
+c000000004BDD6DBF0000000000001FFD
+t1272802751
+s8189
+
+N/Users/dasaanand/Projects/MAC/CG_minip/drawalgo.h
+c000000004BDD07CD00000000000013FA
+t1272776653
+s5114
+
+N/Users/dasaanand/Projects/MAC/CG_minip/lib.h
+c000000004BDD519700000000000014FE
+t1272795543
+s5374
+
+N/Users/dasaanand/Projects/MAC/CG_minip/main.c
+c000000004BF50AFD000000000002054D
+t1274350333
+s132429
+i<GLUT/GLUT.h>
+i<OpenGL/OpenGL.h>
+i<alloca.h>
+i<gl/glut.h>
+i<malloc.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<time.h>
+i"lib.h"
+i"transform.h"
+i"drawalgo.h"
+i"char.h"
+
+N/Users/dasaanand/Projects/MAC/CG_minip/transform.h
+c000000004BDF19C0000000000000052E
+t1272912320
+s1326
+
+N/Users/dasaanand/dasaanand/CG/minip/build/Debug/minip
+t1274350334
+s166264
+
+N/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+t1274350334
+s254528
+
+N/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList
+c000000004BC151BF0000000000000065
+t1270960575
+s101
+
+N/Users/dasaanand/dasaanand/CG/minip/char.h
+c000000004BDD6DBF0000000000001FFD
+t1272802751
+s8189
+
+N/Users/dasaanand/dasaanand/CG/minip/drawalgo.h
+c000000004BDD07CD00000000000013FA
+t1272776653
+s5114
+
+N/Users/dasaanand/dasaanand/CG/minip/lib.h
+c000000004BDD519700000000000014FE
+t1272795543
+s5374
+
+N/Users/dasaanand/dasaanand/CG/minip/main.c
+c000000004BF50AFD000000000002054D
+t1274350333
+s132429
+i<GLUT/GLUT.h>
+i<OpenGL/OpenGL.h>
+i<alloca.h>
+i<gl/glut.h>
+i<malloc.h>
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i<time.h>
+i"lib.h"
+i"transform.h"
+i"drawalgo.h"
+i"char.h"
+
+N/Users/dasaanand/dasaanand/CG/minip/menu.h
+c000000004BD82FB4000000000000088B
+t1272459188
+s2187
+i"char.h"
+
+N/Users/dasaanand/dasaanand/CG/minip/transform.h
+c000000004BDF19C0000000000000052E
+t1272912320
+s1326
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies346676275#346676275#0(0"0(0#1#0"17205137920#0"0#
+
+CCompileC build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o /Users/dasaanand/Desktop/CG/minip/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s292304025.637517
+e292304026.439478
+r1
+xCompileC
+xbuild/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+x/Users/dasaanand/Desktop/CG/minip/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dasaanand/Desktop/CG/minip/main.c:30:
+o/Users/dasaanand/Desktop/CG/minip/char.h: In function 'draw_char':
+o/Users/dasaanand/Desktop/CG/minip/char.h:52: warning: implicit declaration of function 'toupper'
+o/Users/dasaanand/Desktop/CG/minip/main.c: In function 'cont_transform':
+o/Users/dasaanand/Desktop/CG/minip/main.c:1382: warning: implicit declaration of function 'usleep'
+o/Users/dasaanand/Desktop/CG/minip/main.c: In function 'main':
+o/Users/dasaanand/Desktop/CG/minip/main.c:3986: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+o/Users/dasaanand/Desktop/CG/minip/main.c:4009: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+lSLF07#2@48"Compile /Users/dasaanand/Desktop/CG/minip/main.c292304025#292304026#0(719"In file included from /Users/dasaanand/Desktop/CG/minip/main.c:30:/Users/dasaanand/Desktop/CG/minip/char.h: In function 'draw_char':/Users/dasaanand/Desktop/CG/minip/char.h:52: warning: implicit declaration of function 'toupper'/Users/dasaanand/Desktop/CG/minip/main.c: In function 'cont_transform':/Users/dasaanand/Desktop/CG/minip/main.c:1382: warning: implicit declaration of function 'usleep'/Users/dasaanand/Desktop/CG/minip/main.c: In function 'main':/Users/dasaanand/Desktop/CG/minip/main.c:3986: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type/Users/dasaanand/Desktop/CG/minip/main.c:4009: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type4(22@42"Implicit declaration of function 'toupper'292304025#134#97#2(7@62"In file included from /Users/dasaanand/Desktop/CG/minip/main.c292304025#18446744073709551615#0#0(6@40"/Users/dasaanand/Desktop/CG/minip/main.c292302129#30#0#30#0#0"0(13@86"Implicit declaration of function 'toupper' in /Users/dasaanand/Desktop/CG/minip/char.h292304025#18446744073709551615#0#0(6@40"/Users/dasaanand/Desktop/CG/minip/char.h291973755#52#0#52#0#0"0(6@40"/Users/dasaanand/Desktop/CG/minip/char.h291973755#52#0#52#0#36"implicit declaration of function '*'0(22@41"Implicit declaration of function 'usleep'292304026#303#98#0(6@40"/Users/dasaanand/Desktop/CG/minip/main.c292302129#1382#0#1382#0#36"implicit declaration of function '*'0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type292304026#463#128#0(6@40"/Users/dasaanand/Desktop/CG/minip/main.c292302129#3986#0#3986#0#56"passing argument * of '*' from incompatible pointer type0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type292304026#591#128#0(6@40"/Users/dasaanand/Desktop/CG/minip/main.c292302129#4009#0#4009#0#56"passing argument * of '*' from incompatible pointer type0(0#0#40"/Users/dasaanand/Desktop/CG/minip/main.c4300885448#1179"    cd /Users/dasaanand/Desktop/CG/minip    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/minip-generated-files.hmap -I/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/minip-own-target-headers.hmap -I/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/minip-all-target-headers.hmap -iquote /Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/minip-project-headers.hmap -F/Users/dasaanand/Desktop/CG/minip/build/Debug -I/Users/dasaanand/Desktop/CG/minip/build/Debug/include -I/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/DerivedSources/x86_64 -I/Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/DerivedSources -c /Users/dasaanand/Desktop/CG/minip/main.c -o /Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o /Users/dasaanand/Projects/Acad/CG_minip/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o /Users/dasaanand/Projects/MAC/CG_minip/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o /Users/dasaanand/dasaanand/CG/minip/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s296043133.214286
+e296043134.525387
+r1
+xCompileC
+xbuild/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o
+x/Users/dasaanand/dasaanand/CG/minip/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dasaanand/dasaanand/CG/minip/main.c:30:
+o/Users/dasaanand/dasaanand/CG/minip/char.h: In function 'draw_char':
+o/Users/dasaanand/dasaanand/CG/minip/char.h:52: warning: implicit declaration of function 'toupper'
+o/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'cont_transform':
+o/Users/dasaanand/dasaanand/CG/minip/main.c:1944: warning: implicit declaration of function 'usleep'
+o/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'create_action':
+o/Users/dasaanand/dasaanand/CG/minip/main.c:3033: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+o/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'myMouse_sub_window':
+o/Users/dasaanand/dasaanand/CG/minip/main.c:5504: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+o/Users/dasaanand/dasaanand/CG/minip/main.c:5521: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+o/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'main':
+o/Users/dasaanand/dasaanand/CG/minip/main.c:6394: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+o/Users/dasaanand/dasaanand/CG/minip/main.c:6418: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type
+lSLF07#2@50"Compile /Users/dasaanand/dasaanand/CG/minip/main.c296043133#296043134#0(1276"In file included from /Users/dasaanand/dasaanand/CG/minip/main.c:30:/Users/dasaanand/dasaanand/CG/minip/char.h: In function 'draw_char':/Users/dasaanand/dasaanand/CG/minip/char.h:52: warning: implicit declaration of function 'toupper'/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'cont_transform':/Users/dasaanand/dasaanand/CG/minip/main.c:1944: warning: implicit declaration of function 'usleep'/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'create_action':/Users/dasaanand/dasaanand/CG/minip/main.c:3033: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'myMouse_sub_window':/Users/dasaanand/dasaanand/CG/minip/main.c:5504: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type/Users/dasaanand/dasaanand/CG/minip/main.c:5521: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type/Users/dasaanand/dasaanand/CG/minip/main.c: In function 'main':/Users/dasaanand/dasaanand/CG/minip/main.c:6394: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type/Users/dasaanand/dasaanand/CG/minip/main.c:6418: warning: passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type7(22@42"Implicit declaration of function 'toupper'296043133#138#99#2(7@64"In file included from /Users/dasaanand/dasaanand/CG/minip/main.c296043133#18446744073709551615#0#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#30#0#30#0#0"0(13@88"Implicit declaration of function 'toupper' in /Users/dasaanand/dasaanand/CG/minip/char.h296043133#18446744073709551615#0#0(6@42"/Users/dasaanand/dasaanand/CG/minip/char.h294495551#52#0#52#0#0"0(6@42"/Users/dasaanand/dasaanand/CG/minip/char.h294495551#52#0#52#0#36"implicit declaration of function '*'0(22@41"Implicit declaration of function 'usleep'296043134#311#100#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#1944#0#1944#0#36"implicit declaration of function '*'0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type296043134#484#130#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#3033#0#3033#0#56"passing argument * of '*' from incompatible pointer type0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type296043134#692#130#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#5504#0#5504#0#56"passing argument * of '*' from incompatible pointer type0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type296043134#822#130#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#5521#0#5521#0#56"passing argument * of '*' from incompatible pointer type0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type296043134#1016#130#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#6394#0#6394#0#56"passing argument * of '*' from incompatible pointer type0(22@71"Passing argument 1 of 'glutKeyboardFunc' from incompatible pointer type296043134#1146#130#0(6@42"/Users/dasaanand/dasaanand/CG/minip/main.c296043133#6418#0#6418#0#56"passing argument * of '*' from incompatible pointer type0(0#0#42"/Users/dasaanand/dasaanand/CG/minip/main.c3907004821821025792#1201"    cd /Users/dasaanand/dasaanand/CG/minip    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/minip-generated-files.hmap -I/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/minip-own-target-headers.hmap -I/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/minip-all-target-headers.hmap -iquote /Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/minip-project-headers.hmap -F/Users/dasaanand/dasaanand/CG/minip/build/Debug -I/Users/dasaanand/dasaanand/CG/minip/build/Debug/include -I/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/DerivedSources/x86_64 -I/Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/DerivedSources -c /Users/dasaanand/dasaanand/CG/minip/main.c -o /Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/dasaanand/Desktop/CG/minip/build/Debug/minip normal x86_64
+s292304026.439591
+e292304026.740208
+r1
+xLd
+x/Users/dasaanand/Desktop/CG/minip/build/Debug/minip
+xnormal
+xx86_64
+lSLF07#2@56"Link /Users/dasaanand/Desktop/CG/minip/build/Debug/minip292304026#292304026#0(0"0(0#0#0"4300885448#499"    cd /Users/dasaanand/Desktop/CG/minip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dasaanand/Desktop/CG/minip/build/Debug -F/Users/dasaanand/Desktop/CG/minip/build/Debug -filelist /Users/dasaanand/Desktop/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/dasaanand/Desktop/CG/minip/build/Debug/minip0#
+
+CLd /Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip normal x86_64
+s346676275.892893
+e346676276.483103
+r1
+xLd
+x/Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip346676275#346676276#0(0"0(0#0#0"17200708864#529"    cd /Users/dasaanand/Projects/Acad/CG_minip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dasaanand/Projects/Acad/CG_minip/build/Debug -F/Users/dasaanand/Projects/Acad/CG_minip/build/Debug -filelist /Users/dasaanand/Projects/Acad/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/dasaanand/Projects/Acad/CG_minip/build/Debug/minip0#
+
+CLd /Users/dasaanand/Projects/MAC/CG_minip/build/Debug/minip normal x86_64
+s318789719.483361
+e318789719.557106
+r1
+xLd
+x/Users/dasaanand/Projects/MAC/CG_minip/build/Debug/minip
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/dasaanand/Projects/MAC/CG_minip/build/Debug/minip318789719#318789719#0(0"0(0#0#0"8605501728#524"    cd /Users/dasaanand/Projects/MAC/CG_minip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dasaanand/Projects/MAC/CG_minip/build/Debug -F/Users/dasaanand/Projects/MAC/CG_minip/build/Debug -filelist /Users/dasaanand/Projects/MAC/CG_minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/dasaanand/Projects/MAC/CG_minip/build/Debug/minip0#
+
+CLd /Users/dasaanand/dasaanand/CG/minip/build/Debug/minip normal x86_64
+s296043134.525532
+e296043134.976138
+r1
+xLd
+x/Users/dasaanand/dasaanand/CG/minip/build/Debug/minip
+xnormal
+xx86_64
+lSLF07#2@58"Link /Users/dasaanand/dasaanand/CG/minip/build/Debug/minip296043134#296043134#0(0"0(0#0#0"4300885448#509"    cd /Users/dasaanand/dasaanand/CG/minip    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dasaanand/dasaanand/CG/minip/build/Debug -F/Users/dasaanand/dasaanand/CG/minip/build/Debug -filelist /Users/dasaanand/dasaanand/CG/minip/build/minip.build/Debug/minip.build/Objects-normal/x86_64/minip.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/dasaanand/dasaanand/CG/minip/build/Debug/minip0#
+
